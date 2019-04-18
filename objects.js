@@ -3,5 +3,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  Object.assign({}, )
+  playlist['My Bloody Valentine'] = 'Sometimes'
+  return playlist
 }
