@@ -1,8 +1,7 @@
 var playlist = {
- theKills: "URA Fever"
+ "The Kills": "URA Fever"
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist['My Bloody Valentine'] = 'Sometimes'
-  return playlist
+  playlist["My Bloody Valentine"] = "Sometimes"
 }
